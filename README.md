@@ -25,3 +25,24 @@ This repo includes a website🎆 for facilitating mandatory products for needy o
 <br>
 
 <img src="https://png2.cleanpng.com/sh/6a01f1c2e6c0115c959e02653df69725/L0KzQYm3VcA5N6R2j5H0aYP2gLBuTfdzaaFtgdU2ZHX2ebj1TgNpd6F1gdDwLUXkdoO3V8E1PGhnTdM6LkGzQ4WBU8cyOWY3Tao6MEm5RIOCU8cveJ9s/kisspng-graphic-design-shopping-5af2071447b5a1.1034837115258109642937.png">
+
+# TEAMNAME:LINK-A-CON
+
+- who are we?
+  we are a team who are willing to struggle and find rewards in getting a smile in return.
+- PARTICIPANTS:
+  [1]Nikita Agarwall
+  [2]Anupreeta Das
+
+
+# Set up guide:
+
+No intsallation is needed.# No frustation.
+
+# DEPLOYMENT
+
+
+This website is hosted on github pages.You can freely follow this link.
+https://pages.github.com/
+
+
