@@ -2,7 +2,7 @@
 
 <img width="100%" height="350" src="https://www.pinclipart.com/picdir/middle/395-3957770_3582869de9a2412793e6-online-shopping-icon-png-clipart.png"> 
 
-<img height="2%" width="2%" src="https://icon-library.com/images/web-link-icon-png/web-link-icon-png-26.jpg">  https://nikita0098.github.io/LINK-A-CON/.
+<img height="2%" width="2%" src="https://icon-library.com/images/web-link-icon-png/web-link-icon-png-26.jpg">  https://hack-a-duck.github.io/LINK-A-CON/.
 
 # About
 
